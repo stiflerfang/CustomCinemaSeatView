@@ -1,1 +1,1 @@
-This is a custom cinema seat view.
+This is a custom cinema seat view.You can pick up seat in the view, also you can zoom in or out the view,and there is a thumbnail view in the left corner,you can see the global seat view in the thumnnail view when you had zoom out the seat view. 
