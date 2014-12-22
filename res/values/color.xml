@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- viewpagerIndicator  start -->
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+
+    <!-- viewpagerIndicator  end -->
+    <color name="color_9c9c9c">#9c9c9c</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_ffcc18">#ffcc18</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_242424">#242424</color>
+    <color name="color_988c63">#988c63</color>
+    <color name="color_ff4aa3">#ff4aa3</color>
+    <color name="color_0090ff">#0090ff</color>
+    <color name="common_color_d5d5d5">#d5d5d5</color>
+    <color name="color_1a1a1a">#1a1a1a</color>
+    <color name="color_181818">#181818</color>
+    <color name="color_0c0c0c">#0c0c0c</color>
+    <color name="color_171511">#171511</color>
+    <color name="color_17150f">#17150f</color>
+    <color name="color_7f1a1a1a">#7f1a1a1a</color>
+    <color name="color_3c3c3c">#3c3c3c</color>
+    <color name="color_252525">#252525</color>
+    <color name="color_20c4fa">#20c4fa</color>
+    <color name="color_f0f0f0">#f0f0f0</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_bbbbbb">#bbbbbb</color>
+    <color name="color_ff007e">#ff007e</color>
+    <color name="color_fa8c20">#fa8c20</color>
+    <color name="color_f3c217">#f3c217</color>
+    <color name="color_ac8600">#ac8600</color>
+    <color name="color_191919">#191919</color>
+    <color name="color_e9e9e9">#e9e9e9</color>
+    <color name="color_b9b9b9">#b9b9b9</color>
+    <color name="color_525252">#525252</color>
+    <color name="color_424242">#424242</color>
+    <color name="color_d0d0d0">#d0d0d0</color>
+    <color name="color_99cc00">#99cc00</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_9ada00">#9ada00</color>
+    <color name="color_414141">#414141</color>
+    <color name="toast_bg">#E5414141</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_212121">#212121</color>
+    <color name="color_1e1e1e">#1e1e1e</color>
+    <color name="color_343434">#343434</color>
+    <color name="color_5d5d5d">#5d5d5d</color>
+    <color name="color_FFD716">#FFD716</color>
+    <color name="color_B6970F">#B6970F</color>
+    <!-- viewpagerIndicator  end -->
+    <drawable name="line">#424242</drawable>
+    <drawable name="progress_backgroud">#5d5d5d</drawable>
+    <drawable name="secondaryProgress">#ffffffff</drawable>
+    <drawable name="progress_bg">#ffcc18</drawable>
+    <color name="color_505050">#505050</color>
+    
+    <color name="sns_gallery_item_mask">#88000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="actionbar_item_selected_color">#26ffffff</color>
+    <color name="actionbar_bg">#f44336</color>
+    <color name="common_gray_line">#e6e6e6</color>
+    <color name="actionbar_menu_selected_color">#e6e6e6</color>
+    <color name="common_gray_black_text_color">#262626</color>
+    <color name="common_gray_bg_color">#e6e6e6</color>
+
+</resources>
